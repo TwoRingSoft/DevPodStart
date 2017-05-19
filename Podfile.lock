@@ -1,0 +1,16 @@
+PODS:
+  - DevPodStart (1.0.0)
+
+DEPENDENCIES:
+  - DevPodStart (from `.`)
+
+EXTERNAL SOURCES:
+  DevPodStart:
+    :path: "."
+
+SPEC CHECKSUMS:
+  DevPodStart: df48627eceafa8b3bc4df3562f7ec6cce3716457
+
+PODFILE CHECKSUM: 2eef35368b778de9306c7bb0c7803b16cc1a8fb4
+
+COCOAPODS: 1.1.1
