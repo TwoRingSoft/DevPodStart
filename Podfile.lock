@@ -1,0 +1,16 @@
+PODS:
+  - DevPodTest (1.0.0)
+
+DEPENDENCIES:
+  - DevPodTest (from `.`)
+
+EXTERNAL SOURCES:
+  DevPodTest:
+    :path: "."
+
+SPEC CHECKSUMS:
+  DevPodTest: 9f09c16c2489c59ec4b66dd22d8972cc00ce4c2e
+
+PODFILE CHECKSUM: af7a5ea5eecf36ec8d52785a727d6ccfbe23a69c
+
+COCOAPODS: 1.1.1
